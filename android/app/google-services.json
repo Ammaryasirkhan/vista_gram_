@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "384004291545",
+    "project_id": "appclone-55ea8",
+    "storage_bucket": "appclone-55ea8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:384004291545:android:8648d0eabcea4da446f7c8",
+        "android_client_info": {
+          "package_name": "com.example.vista_gram_"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_n_GPHiIh9iHS_ew3whx7akyHkTWvb6Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
